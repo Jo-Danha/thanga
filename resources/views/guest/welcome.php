@@ -8,7 +8,7 @@
         <div class="row align-items-center justify-content-center">
             <div class="col">
                 <div class="text-center text-lg-start">
-                    <h1 class="fw-bold my-2" style="font-size: 2.3rem;">Dikit Link</h1>
+                    <h1 class="fw-bold my-2" style="font-size: 2.3rem;">Thanga Link</h1>
                     <h2 class="mt-0 mb-3" style="font-size: 2rem;">Link tuh dikit nggak banyak !!</h2>
                     <p class="lead my-4 bg-light rounded-4 p-3" style="font-size: 1.2rem;">
                         Aplikasi pemendek url sederhana dengan fitur statistik yang sangat detail. Cobain dehhh, seriuss !!!
@@ -99,7 +99,7 @@
         <div class="row align-items-center justify-content-between flex-column flex-sm-row">
             <div class="col-auto">
                 <span class="text-dark">
-                    Build with<i class="fa-solid fa-heart text-danger mx-1"></i>Kamu PHP Framework
+                    Build with<i class="fa-solid fa-heart text-danger mx-1"  href="https://far-ardhana.my.id"></i>Farand Ardhana
                 </span>
             </div>
             <div class="col-auto">
