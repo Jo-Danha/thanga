@@ -102,13 +102,7 @@
                     Build with<i class="fa-solid fa-heart text-danger mx-1"  href="https://far-ardhana.my.id"></i>Farand Ardhana
                 </span>
             </div>
-            <div class="col-auto">
-                <a class="link-dark hover p-1 rounded text-decoration-none" href="#" data-bs-toggle="modal" data-bs-target="#staticPrivacy">Privacy</a>
-                <span class="text-dark h5 mx-1">&middot;</span>
-                <a class="link-dark hover p-1 rounded text-decoration-none" href="#" data-bs-toggle="modal" data-bs-target="#staticTerms">Terms</a>
-                <span class="text-dark h5 mx-1">&middot;</span>
-                <a class="link-dark hover p-1 rounded text-decoration-none" target="_blank" rel="noopener noreferrer" href="https://dikit.my.id/github_Dikit-Link">Github</a>
-            </div>
+            
         </div>
     </footer>
 </div>
