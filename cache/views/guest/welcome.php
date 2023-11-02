@@ -107,7 +107,7 @@
                 <span class="text-dark h5 mx-1">&middot;</span>
                 <a class="link-dark hover p-1 rounded text-decoration-none" href="#" data-bs-toggle="modal" data-bs-target="#staticTerms">Terms</a>
                 <span class="text-dark h5 mx-1">&middot;</span>
-                <a class="link-dark hover p-1 rounded text-decoration-none" target="_blank" rel="noopener noreferrer" href="https://dikit.my.id/github_Dikit-Link">Farand Ardhana</a>
+                <a class="link-dark hover p-1 rounded text-decoration-none" target="_blank" rel="noopener noreferrer">Farand Ardhana</a>
             </div>
         </div>
     </footer>
